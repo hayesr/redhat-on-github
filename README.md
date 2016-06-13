@@ -1,8 +1,10 @@
 # Red Hat on GitHub
 A List of Red Hat code, teams, and upstream projects on GitHub. This is a work in progress. Submit a PR to improve it.
 
-## Organizations
+## Upstream Projects & Orgs
 * [ManageIQ](https://github.com/ManageIQ)
+
+## Red Hat Team Orgs
 * [Red Hat Consulting](https://github.com/rhtconsulting)
 * [Red Hat Cloud Innovation Practice](https://github.com/redhat-cip)
 * [Red Hat Government](https://github.com/RedHatGov)

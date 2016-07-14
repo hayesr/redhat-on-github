@@ -2,6 +2,7 @@
 A List of Red Hat code, teams, and upstream projects on GitHub. This is a work in progress. Submit a PR to improve it.
 
 ## Upstream Projects & Orgs
+* [Ansible](https://github.com/ansible)
 * [ManageIQ](https://github.com/ManageIQ)
 * [Project Atomic](https://github.com/projectatomic/)
 * [OpenShift Origin](https://github.com/openshift/)

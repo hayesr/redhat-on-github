@@ -5,6 +5,16 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [ManageIQ](https://github.com/ManageIQ)
 * [Project Atomic](https://github.com/projectatomic/)
 * [OpenShift Origin](https://github.com/openshift/)
+* [Arquillian](https://github.com/openshift/)
+* [WildFly](https://github.com/wildfly)
+* [Hibernate](https://github.com/hibernate)
+* [Infinispan](https://github.com/infinispan)
+* [Drools](https://github.com/droolsjbpm)
+* [Ceylon](https://github.com/ceylon)
+* [Forge](https://github.com/forge)
+* [ALMighty](https://github.com/almighty/)
+* [ShrinkWrap](https://github.com/shrinkwrap/)
+* [Awestruct](https://github.com/awestruct)
 
 ## Red Hat Team Orgs
 * [Red Hat Consulting](https://github.com/rhtconsulting)

@@ -16,6 +16,9 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [ALMighty](https://github.com/almighty/)
 * [ShrinkWrap](https://github.com/shrinkwrap/)
 * [Awestruct](https://github.com/awestruct)
+* [Ceph](https://github.com/ceph)
+* [Gluster](https://github.com/gluster)
+* [NFS-Ganesha](https://github.com/nfs-ganesha)
 
 ## Red Hat Team Orgs
 * [Red Hat Consulting](https://github.com/rhtconsulting)

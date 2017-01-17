@@ -22,6 +22,7 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [PatternFly](https://github.com/patternfly)
 * [Hawkular](https://github.com/hawkular)
 * [oVirt](https://github.com/ovirt)
+* [Cygwin](https://github.com/cygwin)
 
 ## Red Hat Team Orgs
 * [Red Hat Consulting](https://github.com/rhtconsulting)

@@ -34,4 +34,5 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [Red Hat Product Security](https://github.com/RedHatProductSecurity)
 * [Red Hat Inception](https://github.com/RHInception)
 * [Red Hat Access](https://github.com/redhataccess)
+* [Red Hat EMEA SAs and Consultants](https://github.com/redhatemea)
 * [Open Source and Standards](https://github.com/OSAS)

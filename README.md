@@ -6,7 +6,7 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [ManageIQ](https://github.com/ManageIQ)
 * [Project Atomic](https://github.com/projectatomic/)
 * [OpenShift Origin](https://github.com/openshift/)
-* [Arquillian](https://github.com/openshift/)
+* [Arquillian](https://github.com/arquillian)
 * [WildFly](https://github.com/wildfly)
 * [Hibernate](https://github.com/hibernate)
 * [Infinispan](https://github.com/infinispan)
@@ -19,6 +19,9 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [Ceph](https://github.com/ceph)
 * [Gluster](https://github.com/gluster)
 * [NFS-Ganesha](https://github.com/nfs-ganesha)
+* [PatternFly](https://github.com/patternfly)
+* [Hawkular](https://github.com/hawkular)
+* [oVirt](https://github.com/ovirt)
 
 ## Red Hat Team Orgs
 * [Red Hat Consulting](https://github.com/rhtconsulting)
@@ -31,3 +34,5 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [Red Hat Product Security](https://github.com/RedHatProductSecurity)
 * [Red Hat Inception](https://github.com/RHInception)
 * [Red Hat Access](https://github.com/redhataccess)
+* [Red Hat EMEA SAs and Consultants](https://github.com/redhatemea)
+* [Open Source and Standards](https://github.com/OSAS)

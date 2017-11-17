@@ -10,7 +10,7 @@ A List of Red Hat code, teams, and upstream projects on GitHub. This is a work i
 * [WildFly](https://github.com/wildfly)
 * [Hibernate](https://github.com/hibernate)
 * [Infinispan](https://github.com/infinispan)
-* [Drools](https://github.com/droolsjbpm)
+* [kiegroup](https://github.com/kiegroup)
 * [Ceylon](https://github.com/ceylon)
 * [Forge](https://github.com/forge)
 * [ALMighty](https://github.com/almighty/)
